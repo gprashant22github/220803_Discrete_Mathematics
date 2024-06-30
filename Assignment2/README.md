@@ -14,8 +14,8 @@ To use the lexical analyzer:
 1. Clone the repository :
 git clone https://github.com/gprashant22github/lexical-analyzer.git
 2. Compile the lexical analyzer : <br>
-    (I)flex prob1.1.l <br>
-    (II)gcc lex.yy.c -o lexer -lfl
+    (I) flex prob1.1.l <br>
+    (II) gcc lex.yy.c -o lexer -lfl
 
 3. Run the lexical analyzer on a Kanpur program file :
 ./lexer public1.knp.
