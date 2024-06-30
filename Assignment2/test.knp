@@ -1,0 +1,7 @@
+BEGIN
+x = 10
+IF x GT 20 THEN
+    y = "x is greater than y"
+ELSE
+    y = 'y is greater than x'
+END
