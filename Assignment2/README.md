@@ -12,7 +12,7 @@ This project implements a lexical analyzer (scanner) for the Kanpur programming 
 ## Usage
 To use the lexical analyzer:
 1. Clone the repository :
-git clone https://github.com/gprashant22github/lexical-analyzer.git
+git clone https://github.com/gprashant22github/220803_Discrete_Mathematics.git
 2. Compile the lexical analyzer : <br>
     (I) flex prob1.1.l <br>
     (II) gcc lex.yy.c -o lexer -lfl
